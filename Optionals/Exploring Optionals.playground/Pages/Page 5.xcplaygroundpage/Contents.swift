@@ -12,8 +12,12 @@ What do you think the following code will do?  Type it and find out:
 Is the result what you expected?
 
 */
-
-
+var dayOfWeek : String? = "Monday"
+if dayOfWeek != nil {
+    print ("The day is \(dayOfWeek)")
+} else {
+    print ("no day was provided")
+}
 /*:
 
 Now change the first line to:

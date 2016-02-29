@@ -10,5 +10,8 @@ Make the prediction before you type the code.
 ![kc3](kc3.png)
 
 */
+var x : Int?
+var y : Int?
 
+x! * y!
 //: [Next](@next)

@@ -10,7 +10,6 @@ Make a prediction about the result of following code:
 ![strings-as-optionals](strings-as-optionals.png)
 
 */
-
 /*:
 
 Is an empty string the same as a *nil* value?

@@ -24,8 +24,13 @@ Type the code you see below – note the changes on lines 3 and 4:
 ![force-unwrap](force-unwrap.png)
 
 */
-
-/*:
+var dayOfWeek : String? = "Monday"
+if dayOfWeek != nil {
+    let day = dayOfWeek!
+    print("The day is \(day)")
+} else {
+    print ("no day was provided")
+}/*:
 
 Look closely at the output – how does it differ from the output you obtained earlier?
 

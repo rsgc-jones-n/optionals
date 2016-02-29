@@ -12,7 +12,8 @@ Try typing the following code into the playground:
 What is the result?
 
 */
-
+var myName : String?
+print (myName)
 /*:
 
 Now try typing the following:
@@ -22,5 +23,6 @@ Now try typing the following:
 How does the result differ?
 
 */
-
+var yourName : String?
+print(yourName)
 //: [Next](@next)
